@@ -1,2 +1,2 @@
 # NLP-Modeling-and-Text-Mining
-Implementation of text mining packages for text processing and sentiment analysis with R.
+Implementation of Text Mining Packages for Text Processing,Text Classification and Sentiment Analysis with R,Python.
